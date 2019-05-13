@@ -14,7 +14,7 @@ __END__
 
 =head1 NAME
 
-ADI - It's new $module
+ADI - Annotated Dependency Injection
 
 =head1 SYNOPSIS
 
